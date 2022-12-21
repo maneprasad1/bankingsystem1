@@ -1,0 +1,20 @@
+*{font-family: 'Montserrat', sans-serif;}
+
+.imgclass{
+  padding: 0!important;
+}
+
+/* Action*/
+#action{
+  background-color:rgb(52, 152, 219 );
+  padding: 7% 15%;
+  text-align: center;
+  line-height: 1.5;
+  color: rgb(250, 246, 246);
+}
+
+footer p{
+  text-align: center;
+	background-color:#F0F8FF;
+	letter-spacing: 0.5px;
+}
